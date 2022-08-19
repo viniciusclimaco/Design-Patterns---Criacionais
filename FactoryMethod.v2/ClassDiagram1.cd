@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryMethod.v2.Product.Cooffe">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>Product\Cooffe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.ConcreteProduct.CooffeLatte">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>ConcreteProduct\CooffeLatte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.ConcreteProduct.CooffeMacchiato">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>ConcreteProduct\CooffeMacchiato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.ConcreteProduct.CooffeExpresso">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAACAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>ConcreteProduct\CooffeExpresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.ConcreteProduct.CooffeIrish">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAQEAAAA=</HashCode>
+      <FileName>ConcreteProduct\CooffeIrish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.ConcreteCreator.CooffeFactory">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAkAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteCreator\CooffeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.v2.Creator.CooffeFactoryMethod">
+    <Position X="8" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator\CooffeFactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
