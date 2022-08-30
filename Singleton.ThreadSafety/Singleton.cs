@@ -1,13 +1,11 @@
 ﻿namespace Singleton.ThreadSafety
 {
     public class Singleton
-    {
-        private static int contador = 0;
+    {        
         private static Singleton instance = null;
         private static readonly object lockObject = new object();
         private Singleton()
-        {
-            contador++;
+        {            
             Console.WriteLine($"Criou uma Instância.");
         }
 
