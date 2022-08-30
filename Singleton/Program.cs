@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("=== Padrão Singleton ====");
+﻿Console.WriteLine("=== Padrão Singleton ====");
 
 Console.WriteLine("Criando uma instancia 1");
 Singleton.Singleton s1 = Singleton.Singleton.Instance;
