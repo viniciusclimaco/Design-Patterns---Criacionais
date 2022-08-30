@@ -16,9 +16,7 @@
             instance = new Singleton();
         }
 
-        public static Singleton Instance
-        {
-            get { return instance; }
-        }
+        public static Singleton Instance => instance;
+        
     }
 }
