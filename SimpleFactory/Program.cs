@@ -39,7 +39,7 @@
 
 
 Console.WriteLine("===== Cafeteria Coders In Rio ======");
-Console.WriteLine("Informe o café que deseja: (L)atte | (M)acchiato | (I)rish | (L)atte");
+Console.WriteLine("Informe o café que deseja: (L)atte | (M)acchiato | (I)rish | (E)xpresso");
 var selected = Console.ReadLine().ToUpper();
 try
 {

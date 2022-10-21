@@ -2,12 +2,10 @@
 {
     public sealed class Singleton
     {
-        private static readonly Singleton instance = new Singleton();
-        private static int contador = 0;
+        private static readonly Singleton instance = new Singleton();        
 
         private Singleton()
-        {
-            contador++;
+        {            
             Console.WriteLine("Criou instância");
         }
 
